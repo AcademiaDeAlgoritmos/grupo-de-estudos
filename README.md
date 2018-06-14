@@ -25,6 +25,7 @@ Os encontros ocorrerão de forma online às sextas feiras entre 19:00 e 20:30, q
 - [Cracking The coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), por Gayle Laakmann McDowell
 - [Minicurso Análise de Algoritimos](https://www.ime.usp.br/~pf/livrinho-AA/) Professor Paulo Feofiloff - IME-USP
 - [Lista de exercícios](https://www.ime.usp.br/~cris/aulas/17_2_338/listas/) Professora Cristina G. Fernandes - IME-USP
+- [Problems On Algorithms](https://larc.unt.edu/ian/books/free/poa.pdf) Ian Parberry and William Gasarch
 
 (Se desejar adicionar/remover algum material de apoio, acesse: [como contribuir](CONTRIBUITING.md))
 
