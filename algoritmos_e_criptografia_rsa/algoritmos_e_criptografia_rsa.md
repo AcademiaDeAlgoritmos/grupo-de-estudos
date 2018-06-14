@@ -11,12 +11,17 @@ Vamos entender como funciona um sistema de criptografia simples e como a criptog
 
 ## Tópicos do encontro
 
-Algoritmos são universais?
-Algoritmos podem ser caracterizados?
-Algoritmos podem ser medidos?
-Respostas não cognoscíveis x algoritmos de aproximação
-Primalidade e Fatoração
-Como funciona a Criptografia RSA
+* Algoritmos são universais?
+
+* Algoritmos podem ser caracterizados?
+
+* Algoritmos podem ser medidos?
+
+* Respostas não cognoscíveis x algoritmos de aproximação
+
+* Primalidade e Fatoração
+
+* Como funciona a Criptografia RSA
 
 
 
