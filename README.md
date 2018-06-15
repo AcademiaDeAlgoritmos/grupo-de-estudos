@@ -25,6 +25,8 @@ Os encontros ocorrerão de forma online às sextas feiras entre 19:00 e 20:30, q
 - [Cracking The coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), por Gayle Laakmann McDowell
 - [Minicurso Análise de Algoritimos](https://www.ime.usp.br/~pf/livrinho-AA/) Professor Paulo Feofiloff - IME-USP
 - [Lista de exercícios](https://www.ime.usp.br/~cris/aulas/17_2_338/listas/) Professora Cristina G. Fernandes - IME-USP
+- [99 LISP Problems](https://www.ic.unicamp.br/~meidanis/courses/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html), baseado na lista problemas para resolver com Prlog (criada por swerner.hett@hti.bfh.ch)
+
 
 (Se desejar adicionar/remover algum material de apoio, acesse: [como contribuir](CONTRIBUITING.md))
 
