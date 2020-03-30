@@ -26,7 +26,7 @@ GRAMÁTICA -> Introdução de dados. Juntando informações sem prejuízo.
 LÓGICA -> Classificação de dados e organização por classe e tipo, representado pela forma como fazer agrupamento de informações. A identificação e eliminação de contradições.
 (LOGIC -> Sorting data / arrangement by class and type / collation of information. The identification and elimination of contradiction.)
 
-## Não NECESSARIAMENTE O QUE E COMO |  NOT NECESSARILY THE SAME OF WHAT AND HOW | RETHORIC 
+## NÃO NECESSARIAMENTE O QUE E COMO |  NOT NECESSARILY THE SAME OF WHAT AND HOW | RETHORIC 
 
 RETÓRICA -> Expressão de uma tese e formação de conceitos teóricos, extrapolações e idéias abstratas, utilizando aritmética (o estudo puro do número), geometria (o estudo do número no espaço), harmonia (o estudo do número no tempo - intervalo) e astronomia ( o estudo do número no espaço e tempo). 
 RETHORIC -> Expression of a logically based thesis / theoretical concepts or extrapolations / Abstract ideas. 
