@@ -1,5 +1,5 @@
 // -------------
-// Dependẽncias para Ubuntu 18.04
+// Dependências para Ubuntu 18.04
 // -------------
 // ubuntu openjdk
 // ubuntu jre-headless
